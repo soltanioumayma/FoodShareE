@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Build files
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
